@@ -102,3 +102,114 @@ header {
   border: none;
   cursor: pointer;
 }
+
+/* Main section */
+
+.container {
+  margin: 0 auto;
+  max-width: 860px;
+}
+
+/* section one */
+.section-one {
+  padding-bottom: 4rem;
+}
+
+.images {
+  max-width: 160px;
+  border-radius: 10px;
+  border: 4px solid #3882f6;
+}
+
+.section-one h2 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.img-container {
+  display: flex;
+  padding: 1rem;
+}
+
+.img-wrapper {
+  padding: 10px;
+}
+
+/* section two */
+.section-two {
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  padding: 4rem 2rem;
+}
+
+.quote-wrapper {
+  margin: 0 auto;
+  width: 640px;
+}
+
+.section-two p {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+  color: #1f2937;
+  padding: 0 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.section-two .align-right {
+  text-align: right;
+  font-weight: 900;
+  margin-top: 0;
+}
+
+/* section three */
+.section-three {
+  background-color: #f9faf8;
+  padding: 5rem;
+}
+
+.action-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2.5rem;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  color: #f9faf8;
+}
+
+.action-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-border {
+  border: 2px #f9faf8 solid;
+  margin-right: 2rem;
+}
+
+/* footer */
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 1em;
+  font-size: 1.2rem;
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.github-mark {
+  height: 1.2em;
+  transition: transform 0.4s ease-in-out;
+  filter: invert(100%);
+}
+
+.github-mark:hover {
+  transform: rotate(360deg) scale(1.2);
+}
