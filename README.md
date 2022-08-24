@@ -1,6 +1,6 @@
 # **The Odin Project**
 
-## Project : [Landing Page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
+## Foundations Project : [Landing Page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
 
 [Live Preview](vsilagy.github.io/landing-page/)
 
