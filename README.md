@@ -1,7 +1,17 @@
-# **The Odin Project**
-
-### Foundations Project : [Landing Page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
+# Landing Page
 
 [Live Preview](vsilagy.github.io/landing-page/)
 
-Build a page using this [page design](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) and [colors](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
+### **The Odin Project** : [Landing Page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
+
+### Objectives:
+
+- build a landing using the assignment design and this [colors and style](./img/colors_and_stuff.png)
+
+##### Assignment Design
+
+![landing-page](./img/odin-project.png)
+
+##### My Version
+
+![screenshot](./img/screenshot.png)
