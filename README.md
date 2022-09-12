@@ -1,6 +1,6 @@
 # Landing Page
 
-[Live Preview](vsilagy.github.io/landing-page/)
+[Live Preview](https://vsilagy.github.io/landing-page/)
 
 ### **The Odin Project** : [Landing Page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
 
