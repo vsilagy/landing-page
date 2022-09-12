@@ -48,7 +48,7 @@ header {
   color: white;
   text-decoration: none;
   padding: 0 1rem;
-  font-size: 18px;
+  font-size: 16px;
   color: #e5e7eb;
 }
 
@@ -68,7 +68,7 @@ header {
 
 .hero h1 {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 700;
   color: #f9faf8;
 }
 
@@ -95,10 +95,10 @@ header {
 .btn {
   background-color: #3882f6;
   color: #f9faf8;
-  font-weight: bold;
-  padding: 10px 30px;
+  font-weight: 600;
+  padding: 6px 25px;
   margin-top: 1rem;
-  border-radius: 8px;
+  border-radius: 5px;
   border: none;
   cursor: pointer;
 }
@@ -150,7 +150,7 @@ header {
 
 .section-two p {
   font-size: 36px;
-  font-weight: light;
+  font-weight: 300;
   font-style: italic;
   color: #1f2937;
   padding: 0 1rem;
@@ -159,23 +159,23 @@ header {
 
 .section-two .align-right {
   text-align: right;
-  font-weight: 900;
+  font-weight: 700;
   margin-top: 0;
 }
 
 /* section three */
 .section-three {
   background-color: #f9faf8;
-  padding: 5rem;
+  padding: 4rem;
 }
 
 .action-wrapper {
   max-width: 960px;
   margin: 0 auto;
-  padding: 2.5rem;
-  border-radius: 10px;
+  padding: 2rem 4rem;
+  border-radius: 8px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: #3882f6;
   color: #f9faf8;
@@ -186,6 +186,10 @@ header {
   flex-direction: column;
 }
 
+.action-text p {
+  font-weight: 300;
+}
+
 .btn-border {
   border: 2px #f9faf8 solid;
   margin-right: 2rem;
@@ -194,26 +198,10 @@ header {
 /* footer */
 footer {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
   width: 100%;
-  padding: 1em;
-  font-size: 1.2rem;
+  justify-content: center;
+  padding: 2rem;
   background-color: #1f2937;
   color: #f9faf8;
 }
 
-.small {
-  font-size: 14px;
-}
-
-.github-mark {
-  height: 1.2em;
-  transition: transform 0.4s ease-in-out;
-  filter: invert(100%);
-}
-
-.github-mark:hover {
-  transform: rotateY(0.5turn) scale(1.25);
-}
